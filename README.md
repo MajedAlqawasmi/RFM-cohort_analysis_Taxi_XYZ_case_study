@@ -5,10 +5,10 @@ by [Majed Alqawasmi](https://github.com/MajedAlqawasmi) October 2021
 
 ## Table of content
 
-- [Project Description](https://github.com/MajedAlqawasmi/McMakler_case_study/blob/main/README.md#project-Description)
-- [Data](https://github.com/MajedAlqawasmi/McMakler_case_study/blob/main/README.md#data)
-- [Process & Tools](https://github.com/MajedAlqawasmi/McMakler_case_study/blob/main/README.md#process--tools)
-- [Key Take Aways](https://github.com/MajedAlqawasmi/McMakler_case_study/blob/main/README.md#key-take-aways)
+- [Project Description](https://github.com/MajedAlqawasmi/RFM-cohort_analysis_Taxi_XYZ_case_study/blob/main/README.md#project-Description)
+- [Data](https://github.com/MajedAlqawasmi/RFM-cohort_analysis_Taxi_XYZ_case_study/blob/main/README.md#data)
+- [Process & Tools](https://github.com/MajedAlqawasmi/RFM-cohort_analysis_Taxi_XYZ_case_study/blob/main/README.md#process--tools)
+- [Key Take Aways](https://github.com/MajedAlqawasmi/RFM-cohort_analysis_Taxi_XYZ_case_study/blob/main/README.md#key-take-aways)
 
 ## Project Description
 This project shall: 
