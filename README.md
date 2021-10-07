@@ -24,7 +24,7 @@ Three data frames can be found here [here](https://github.com/MajedAlqawasmi/RFM
 **Process**
 An iterative/agile approach circled through the following steps:
 
-- **Github:** set up our Github repo to use for this project. <br/>
+- **Github:** set up Github repo to use for this project. <br/>
 - **Project management:** Using Trello
 - **Data cleaning & wrangling & EDA in Python:** using Pandas / numpy <br/>
 - **RFM & cohort analysis data preparation, Visualization & dashboards:** using Tableau
