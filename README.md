@@ -1,7 +1,7 @@
 # Taxi XYZ Case Study (Iteration 1)
 by [Majed Alqawasmi](https://github.com/MajedAlqawasmi) October 2021
 <br/><br/>
-##  Tableau data transformation, visualisations & dashboards to answer business & provide RFM & cohort analysis for Giant taxi company
+##  Tableau data transformation, visualisations & dashboards to answer business questions & provide RFM & cohort analysis for Giant taxi company
 
 ## Table of content
 
